@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s23/jpa02-agiduthuri
 
-Deployed at: https://jpa02-agiduthuri.dokku-06.cs.ucsb.edu
+Deployed at: jpa02-agiduthuri.dokku-06.cs.ucsb.edu
 
 # About this repo
 
